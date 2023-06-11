@@ -1,0 +1,11 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "A ToDo application by which user can create, edit and delete daily routines items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alataf Ansari",
+  "license": "ISC"
+}
